@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api", "Api\Api.csproj", "{971DBCC5-8069-42D2-8032-CB3FF8F272E6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Client", "Client\Client.csproj", "{DA552496-9408-4617-96CC-631543616A99}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentityServer", "IdentityServer\IdentityServer.csproj", "{4391CC41-5F8A-4EEE-8C4E-4E9A015ACB9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{971DBCC5-8069-42D2-8032-CB3FF8F272E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{971DBCC5-8069-42D2-8032-CB3FF8F272E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{971DBCC5-8069-42D2-8032-CB3FF8F272E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{971DBCC5-8069-42D2-8032-CB3FF8F272E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA552496-9408-4617-96CC-631543616A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA552496-9408-4617-96CC-631543616A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA552496-9408-4617-96CC-631543616A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA552496-9408-4617-96CC-631543616A99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4391CC41-5F8A-4EEE-8C4E-4E9A015ACB9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4391CC41-5F8A-4EEE-8C4E-4E9A015ACB9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4391CC41-5F8A-4EEE-8C4E-4E9A015ACB9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4391CC41-5F8A-4EEE-8C4E-4E9A015ACB9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84D5AF06-1243-46F1-9D58-70ED572832C3}
+	EndGlobalSection
+EndGlobal
